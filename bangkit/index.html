@@ -22,8 +22,8 @@ Your browser does not support the HTML5 canvas tag.
 
             var c = document.getElementById("myCanvas");
             var ctx = c.getContext("2d");
-            ctx.drawImage(output, 0, 0, 28, 28);
-            var imgData = ctx.getImageData(0, 0, 28, 28).data;
+            ctx.drawImage(output, 0, 0, 256, 256);
+            var imgData = ctx.getImageData(0, 0, 256, 256).data;
             var input = [];
             for(var i = 0; i < imgData.length; i += 4) {
               input.push(imgData[i + 2] / 255);
@@ -42,10 +42,12 @@ Your browser does not support the HTML5 canvas tag.
           scores = scores[0];
           predicted = scores.indexOf(Math.max(...scores));
           $('#number').html(predicted);
-          alert(predicted)
+          alert(predicted);
+          console.log(predicted);
         });
       } else {
         // The model takes a bit to load, if we are too fast, wait
+          console.log('test');
         setTimeout(function(){predict(input)}, 50);
       }
     }
