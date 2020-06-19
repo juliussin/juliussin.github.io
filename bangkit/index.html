@@ -46,7 +46,7 @@ Your browser does not support the HTML5 canvas tag.
           console.log('selesai predict');
             scores = scores[0];
           predicted = scores.indexOf(Math.max(...scores));
-          $('#number').html(predicted);
+          document.getElementById('number').innerHTML=predicted;
           alert(predicted);
           console.log(predicted);
         });
@@ -56,5 +56,7 @@ Your browser does not support the HTML5 canvas tag.
       }
     }
 </script>
+    <br>
+    <div id='number'></div>
 </body>
 </html>
