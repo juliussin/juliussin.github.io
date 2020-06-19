@@ -27,7 +27,10 @@ Your browser does not support the HTML5 canvas tag.
             var input = [];
             console.log('berubah');
             for(var i = 0; i < imgData.length; i ++) {
-              input.push(imgData[i] / 255);
+                if (i%4!=3){
+                    input.push(imgData[i] / 255);      
+                }
+              
             }
             predict(input);
         }
