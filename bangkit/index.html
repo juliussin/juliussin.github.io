@@ -14,10 +14,7 @@ Your browser does not support the HTML5 canvas tag.
 </canvas>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.5.2/dist/tf.min.js"></script>
 <script>
-  var test = 1;
     var loadFile = function(event) {
-      if (test != 1){
-
         var output = document.getElementById('output');
         output.src = URL.createObjectURL(event.target.files[0]);
         output.onload = function() {
@@ -32,10 +29,7 @@ Your browser does not support the HTML5 canvas tag.
               input.push(imgData[i + 2] / 255);
             }
             predict(input);
-        }   
-      }else{
-        test++;
-      }
+        }
     };
 
     tf.loadLayersModel('model/model.json').then(function(model) {
