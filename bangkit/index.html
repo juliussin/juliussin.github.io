@@ -40,10 +40,8 @@ Your browser does not support the HTML5 canvas tag.
         window.model = model;
     });
 
-    var predict = function(input) {      
-        console.log('masuk predict');
+    var predict = function(input) {  
       if (window.model) {
-          console.log('masuk if');
         window.model.predict([tf.tensor(input).reshape([1, 256, 256, 3])]).array().then(function(scores){
           console.log('selesai predict');
             scores = scores[0];
@@ -54,7 +52,6 @@ Your browser does not support the HTML5 canvas tag.
         });
       } else {
         // The model takes a bit to load, if we are too fast, wait
-          console.log('test');
         setTimeout(function(){predict(input)}, 50);
       }
     }
