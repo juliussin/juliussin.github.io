@@ -25,8 +25,8 @@ Your browser does not support the HTML5 canvas tag.
             ctx.drawImage(output, 0, 0, 256, 256);
             var imgData = ctx.getImageData(0, 0, 256, 256).data;
             var input = [];
-            for(var i = 0; i < imgData.length; i += 4) {
-              input.push(imgData[i + 2] / 255);
+            for(var i = 0; i < imgData.length; i ++) {
+              input.push(imgData[i] / 255);
             }
             predict(input);
         }
