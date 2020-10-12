@@ -9,7 +9,7 @@ Summary
 ## Skills
 ---
 <table border="0">
- <tr>
+ <tr valign="top">
     <td>
 	<h4>Artificial Intelligence</h4>
 	<ul>
@@ -28,7 +28,7 @@ Summary
 	</ul>
 	</td>
  </tr>
- <tr>
+ <tr valign="top">
     <td>
 	<h4>Computer Vision</h4>
 	<ul>
@@ -46,7 +46,7 @@ Summary
 	</ul>
 	</td>
  </tr>
- <tr>
+ <tr valign="top">
     <td>
 	<h4>Industrial Automation</h4>
 	<ul>
