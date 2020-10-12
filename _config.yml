@@ -1,13 +1,14 @@
 title: Julius' Portfolio
 description: > 
   <h3>Contact Me</h3>
-  <a href="mailto: julius.sintara@gmail.com">julius.sintara@gmail.com</a> 
+  <a href="mailto: julius.sintara@gmail.com">Email Me</a> 
   <br>
   <a href="https://www.linkedin.com/in/juliussintara/">LinkedIn Profile</a>
   <br>
   <a href="https://www.github.com/juliussin/">GitHub Profile</a> 
-  <br>
+  <br><br><br>
   <h2>Contents</h2>
-  <br>
+  <a href="/">Welcome</a> 
+  <a href="/iot">Internet of Things</a> 
 
 theme: jekyll-theme-minimal
