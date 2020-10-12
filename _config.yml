@@ -1,9 +1,11 @@
 title: Julius' Portfolio
 description: > 
-  First description 
+  <h1>Contact Me</h1>
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/juliussintara/">LinkedIn Profile</a> 
+  <a href="mailto: julius.sintara@gmail.com">julius.sintara@gmail.com</a> 
+  <br>
+  <a href="https://www.linkedin.com/in/juliussintara/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.github.com/juliussin/">GitHub Profile</a> 
 
 theme: jekyll-theme-minimal
