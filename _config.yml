@@ -1,7 +1,8 @@
 title: Julius' Portfolio
 logo: "/images/my_photo.png?raw=true"
 description: > 
-  <h3>Contact Me</h3>
+  <b>Contact Me</b>
+  <br><br>
   <a href="mailto: julius.sintara@gmail.com">Email Me</a> 
   <br>
   <a href="https://www.linkedin.com/in/juliussintara/">LinkedIn Profile</a>
@@ -9,7 +10,9 @@ description: >
   <a href="https://www.github.com/juliussin/">GitHub Profile</a> 
   <br><br><br>
   <h2>Contents</h2>
-  <a href="/">Welcome</a> 
-  <a href="/iot">Internet of Things</a> 
+  <a href="/">Welcome</a>
+  <br>
+  <a href="/iot">Internet of Things</a>
+  <br>
 
 theme: jekyll-theme-minimal
