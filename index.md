@@ -8,6 +8,7 @@ Summary
 
 ## Skills
 ---
+<!--
 <table border="0">
  <tr valign="top">
     <td>
@@ -60,6 +61,7 @@ Summary
 	</td>
  </tr>
 </table>
+-->
 
 #### Artificial Intelligence
 * Machine Learning
