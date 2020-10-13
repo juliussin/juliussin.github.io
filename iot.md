@@ -13,7 +13,7 @@
 
 #### Objective
 
->> Automating the water heating system in the swimming pool and integrate control and monitoring into the existing system
+> Automating the water heating system in the swimming pool and integrate control and monitoring into the existing system
 
 #### Details
 
