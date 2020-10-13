@@ -39,7 +39,7 @@ Multiple PLCs and HMIs are connected using **wireless communication**.
 
 * Utilizing ESP8266 to control numerous servomotors
 * Control the robot over internet with mobile based application
-* Equipped with navigation sensor (magnetometer) for directional detection feature 
+* Equipped with navigation sensor (magnetometer) for directional detection feature  
 (When the robot is physically deflected it can return to its original direction)
 
 #### Keywords
