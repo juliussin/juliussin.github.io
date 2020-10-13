@@ -18,7 +18,7 @@ Multiple PLCs and HMIs are connected using **wireless communication**.
 
 <table border="2">
 <tr>
-<td><b>Keywords:</b> automation, PLC, HMI, wireless communication, IoT, mobile application</td>
+<td><b>Keywords:</b> industrial automation, PLC, HMI, wireless communication, IoT, mobile application</td>
 </tr>
 </table>
 
@@ -42,6 +42,19 @@ so that when the robot is physically deflected it can return to its original dir
 
 ---
 ## DIY Smart IR Remote Connected to Home Automation
+
+> Caption
+
+Replacing conventional remote, this tool can **control air conditioners and televisions** through **home automation system**. 
+An infrared LED is controlled by the **ESP8266** working as a remote, which can be set with **HTTP REST API** or **home assistant** like Google Home.
+This device can act as a **web server** or be connected to a **database** like Firebase Realtime Database.
+For air conditioner, controls include temperature setting, on/off, mode, etc.
+
+<table border="2">
+<tr>
+<td><b>Keywords:</b> home automation, IoT, microcontroller, REST API, Google Home, Firebase</td>
+</tr>
+</table>
 
 ---
 ## Multi-Sensors Node Connected to MQTT
