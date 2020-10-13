@@ -20,9 +20,7 @@ This robot can be **controlled over internet** with **mobile based application**
 In addition, this robot is equipped with a directional detection feature using a **magnetometer**, 
 so that when the robot is physically deflected it can return to its original direction.
 
-> **Keywords:** IoT, mobile application, robot, microcontroller, sensor & actuator
-
-<table border="3">
+<table border="2">
 <tr>
 <td><b>Keywords:</b> IoT, mobile application, robot, microcontroller, sensor & actuator</td>
 </tr>
