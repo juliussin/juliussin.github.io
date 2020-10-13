@@ -8,26 +8,27 @@
 
 ---
 ## Water Heating Automation System for Swimming Pool
-> Caption
 
 <img src="/images/pool.jpg" alt="HMI">
 
-This is my first professional project when I was doing an internship. 
-The main goal is to **automate** the water heating system in the swimming pool and integrate **temperature control** into the existing system.
-Temperature input can be done either via **interactive touch screen** (HMI) or **Android application** connected to the **programmable logic controller**.
-This system can also **control and monitor** the state of water pumps and heaters as shown in the HMI display.
-Multiple PLCs and HMIs are connected using **wireless communication**.
+#### Objective
 
-<table border="2">
-<tr>
-<td><b>Keywords:</b> industrial automation, PLC, HMI, wireless communication, IoT, mobile application</td>
-</tr>
-</table>
+>> Automating the water heating system in the swimming pool and integrate control and monitoring into the existing system
+
+#### Details
+
+* Pool temperature control via interactive touch screen (HMI) or Android application connected to PLC
+* Control and monitor the state of water pumps and heaters as shown in the HMI display
+* Connect multiple PLCs and HMIs using Wireless Communication
+* Program PLC with Ladder Diagram and also HMI
+
+### Keywords
+
+*industrial automation, PLC, HMI, wireless communication, IoT, mobile application*
+
 
 ---
 ## Hexapod Robot with Control over Internet
-
-
 
 <img src="/images/hexapod.jpg" alt="Hexapod Robot" width="400">
 
@@ -44,7 +45,7 @@ Multiple PLCs and HMIs are connected using **wireless communication**.
 
 #### Keywords
 
-IoT, mobile application, robot, microcontroller, sensor & actuator
+*IoT, mobile application, robot, microcontroller, sensor & actuator*
 
 
 ---
