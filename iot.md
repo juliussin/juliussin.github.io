@@ -44,11 +44,8 @@ Multiple PLCs and HMIs are connected using **wireless communication**.
 
 #### Keywords
 
-<table border="2">
-<tr>
-<td>IoT, mobile application, robot, microcontroller, sensor & actuator</td>
-</tr>
-</table>
+IoT, mobile application, robot, microcontroller, sensor & actuator
+
 
 ---
 ## DIY Smart IR Remote Connected to Home Automation
