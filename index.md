@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Skills:
 
 **Artificial Intelligence**  
-    ● Machine Learning  
+&nbsp;&nbsp;● Machine Learning  
     ● Deep Learning / Neural Network  
     ● TensorFlow  
 
