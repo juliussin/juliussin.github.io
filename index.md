@@ -3,28 +3,28 @@
 
 ### Skills:
 
-#### Artificial Intelligence
+** Artificial Intelligence **
 * Machine Learning
 * Deep Learning / Neural Network
 * TensorFlow
 
-#### Computer Vision
+** Computer Vision **
 * Image Processing
 * Feature Extraction
 * Filtering & Transformation
 
-#### Embedded System
+** Embedded System **
 * Microcontroller
 * Single Board Computer
 * Sensor & Actuator
 
-#### Internet of Things
+** Internet of Things **
 * Smart Device
 * MQTT
 * REST API
 * Cloud Computing
 
-#### Industrial Automation
+** Industrial Automation **
 * PLC
 * HMI
 * Scada
