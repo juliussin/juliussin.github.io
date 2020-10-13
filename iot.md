@@ -2,7 +2,7 @@
 
 ---
 ## Contents
-   * [Water Heating Automation System for Swimming Pool](#water-heating-sutomation-system-for-swimming-pool)
+   * [Water Heating Automation System for Swimming Pool](#water-heating-automation-system-for-swimming-pool)
    * [Hexapod Robot with Control over Internet](#hexapod-robot-with-control-over-internet)
    * [DIY Smart IR Remote Connected to Home Automation](#diy-smart-ir-remote-connected-to-home-automation)
 
@@ -27,18 +27,26 @@ Multiple PLCs and HMIs are connected using **wireless communication**.
 ---
 ## Hexapod Robot with Control over Internet
 
-> Six legged robot that could walk with a combination of its leg movements.
+
 
 <img src="/images/hexapod.jpg" alt="Hexapod Robot" width="400">
 
-Utilizing **ESP8266** to control numerous **servomotors**, this project is an example of **Internet of Things**.
-This robot can be **controlled over internet** with **mobile based application**.
-In addition, this robot is equipped with a directional detection feature using a **magnetometer**, 
-so that when the robot is physically deflected it can return to its original direction.
+#### Objective
+
+> Creating prototype of six legged robot that could walk and be controlled based on Internet of Things.
+
+#### Details
+
+* Utilizing ESP8266 to control numerous servomotors
+* Control the robot over internet with mobile based application
+* Equipped with navigation sensor (magnetometer) for directional detection feature 
+(When the robot is physically deflected it can return to its original direction)
+
+#### Keywords
 
 <table border="2">
 <tr>
-<td><b>Keywords:</b> IoT, mobile application, robot, microcontroller, sensor & actuator</td>
+<td>IoT, mobile application, robot, microcontroller, sensor & actuator</td>
 </tr>
 </table>
 
