@@ -8,8 +8,7 @@
 ## Water Heating Automation System for Swimming Pool
 > Caption
 
-<img src="/images/pool1.jpg" alt="HMI Monitoring" width="400">
-<img src="/images/pool2.jpg" alt="HMI Setting" width="400">
+<img src="/images/pool.jpg" alt="HMI">
 
 This is my first professional project when I was doing an internship. 
 The main goal is to **automate** the water heating system in the swimming pool and integrate **temperature control** into the existing system.
