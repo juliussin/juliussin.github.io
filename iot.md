@@ -51,35 +51,59 @@
 ---
 ## DIY Smart IR Remote Connected to Home Automation
 
-> Caption
+#### Objective
 
-Replacing conventional remote, this tool can **control air conditioners and televisions** through **home automation system**. 
-An infrared LED is controlled by the **ESP8266** working as a remote, which can be set with **HTTP REST API** or **home assistant** like Google Home.
-This device can act as a **web server** or be connected to a **database** like Firebase Realtime Database.
-For air conditioner, controls include temperature setting, on/off, mode, etc.
+> Controlling remote-based home appliance (air conditioner, television) though home automation system.
 
-<table border="2">
-<tr>
-<td><b>Keywords:</b> home automation, IoT, microcontroller, REST API, Google Home, Firebase</td>
-</tr>
-</table>
+#### Details
+
+* An infrared LED is controlled by the ESP8266, working as a remote
+* Control and Setting with HTTP REST API or home assistant (Google Home)
+* The device can work as a web server or be connected to a database (Firebase Realtime Database)
+* Control includes temperature setting, mode, on/off, etc.
+
+#### Keywords
+
+*home automation, IoT, microcontroller, REST API, Google Home, Firebase*
 
 ---
 ## Multi-Sensors Node Connected to MQTT
 
 ---
-## Indonesian ID Card Recognition with Cloud Computing
+## Indonesian ID Card Recognition with Cloud Computing  
+(in progress)
+
+#### Objective
+
+> Extracting information from a photo of Indonesian ID Card (KTP) with Optical Character Recognition (OCR) automatically, and store the data in the database.
+
+#### Details
+
 * Create REST API using Flask
 * Deploy on AWS Cloud Service
+
+#### Keywords
+
+*computer vision, OCR, cloud computing, REST API, database*
 
 ---
 ## Garbage Image Classification Machine
 
-> A prototype of machine that could sort garbage by its material type.
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aobZc5qVGxE" target="_blank">
 <img src="http://img.youtube.com/vi/aobZc5qVGxE/maxresdefault.jpg" alt="Garbage Classification" width="600">
 </a>
+
+#### Objective
+
+> Make a prototype of machine that could sort garbage by its material type based on Machine Learning.
+
+#### Details
+
+* Convolutional Neural Network (CNN), Classification, TensorFlow
+
+#### Keywords
+
+*embedded system, machine learning, CNN, classification, TensorFlow*
 
 ---
 ## Navigation Aid Device for the Visually Impaired
