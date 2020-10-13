@@ -114,6 +114,8 @@
 ---
 ## Navigation Aid Device for the Visually Impaired
 
+<img src="/images/wearable.jpg" alt="Wearable Device" width="400">
+
 #### Objective
 
 > Make a wearable device for people with visually impairment to navigate through unfamilliar places. 
