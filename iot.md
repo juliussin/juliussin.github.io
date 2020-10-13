@@ -10,7 +10,7 @@
 
 ## Hexapod Robot with Control over Internet
 
-> Hexapod is a 6 legged robot that could walk with a combination of its leg movements.
+> Six legged robot that could walk with a combination of its leg movements.
 
 <img src="/images/hexapod.jpg" alt="Hexapod Robot" width="400">
 
@@ -19,7 +19,7 @@ This robot can be **controlled over internet** with **mobile based application**
 In addition, this robot is equipped with a directional detection feature using a **magnetometer**, 
 so that when the robot is physically deflected it can return to its original direction.
 
-###### Keywords: `IoT` `mobile application` `robot` `microcontroller` `sensor & actuator`
+##### Keywords: `IoT`  `mobile application`  `robot`  `microcontroller`  `sensor & actuator`
 
 ## DIY Smart IR Remote Connected to Home Automation
 
