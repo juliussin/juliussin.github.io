@@ -131,6 +131,19 @@
 ---
 ## Line Inspection Robot with Vision
 
+<img src="/images/robot.jpg" alt="Line Inspection Robot" width="400">
+
+#### Objective
+
+> Creating prototype of robot with vision to perform line inspection by running along the line and detecting broken lines.
+
+#### Details
+
+* not yet inputed
+
+#### Keywords
+
+*computer vision, robot, embedded system, single board computer*
 
 ---
 ## Mini Projects
