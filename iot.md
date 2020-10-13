@@ -33,6 +33,10 @@ so that when the robot is physically deflected it can return to its original dir
 
 ## Garbage Image Classification Machine
 
+> A prototype of machine that could sort garbage by its material type.
+
+{%youtube aobZc5qVGxE %}
+
 ## Navigation Aid Device for the Visually Impaired
 
 ## Line Inspection Robot with Vision
