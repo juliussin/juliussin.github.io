@@ -5,11 +5,11 @@
    * [Water Heating Automation System for Swimming Pool](#water-heating-automation-system-for-swimming-pool)
    * [Hexapod Robot with Control over Internet](#hexapod-robot-with-control-over-internet)
    * [DIY Smart IR Remote Connected to Home Automation](#diy-smart-ir-remote-connected-to-home-automation)
-   * [Multi-Sensors Node Connected to MQTT](#multi-sensors-node-connected-to-mqtt)
    * [Indonesian ID Card Recognition with Cloud Computing](#indonesian-id-card-recognition-with-cloud-computing)
    * [Garbage Image Classification Machine](#garbage-image-classification-machine)
    * [Navigation Aid Device for the Visually Impaired](#navigation-aid-device-for-the-visually-impaired)
    * [Line Inspection Robot with Vision](#line-inspection-robot-with-vision)
+   * [Multi-Sensors Node Connected to MQTT](#multi-sensors-node-connected-to-mqtt)
    * [Mini Projects](#mini-projects)
 
 ---
@@ -71,9 +71,6 @@
 #### Keywords
 
 *home automation, IoT, microcontroller, REST API, Google Home, Firebase*
-
----
-## Multi-Sensors Node Connected to MQTT
 
 ---
 ## Indonesian ID Card Recognition with Cloud Computing  
@@ -144,6 +141,9 @@
 #### Keywords
 
 *computer vision, robot, embedded system, single board computer*
+
+---
+## Multi-Sensors Node Connected to MQTT
 
 ---
 ## Mini Projects
