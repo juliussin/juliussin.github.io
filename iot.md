@@ -19,9 +19,12 @@ Utilizing **ESP8266** to control numerous **servomotors**, this project is an ex
 This robot can be **controlled over internet** with **mobile based application**.
 In addition, this robot is equipped with a directional detection feature using a **magnetometer**, 
 so that when the robot is physically deflected it can return to its original direction.
-|---|
-| **Keywords:** `IoT`  `mobile application`  `robot`  `microcontroller`  `sensor & actuator` |
-| --- |
+
+<table>
+<tr>
+<th>Keywords: <code>IoT</code> <code>mobile application</code> <code>robot</code> <code>microcontroller</code> <code>sensor & actuator</code></th>
+</tr>
+</table>
 
 ---
 ## DIY Smart IR Remote Connected to Home Automation
