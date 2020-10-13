@@ -3,10 +3,10 @@
 
 ### Skills:
 
-#### Artificial Intelligence
-* Machine Learning
-* Deep Learning / Neural Network
-* TensorFlow
+**Artificial Intelligence**
+    * Machine Learning
+    * Deep Learning / Neural Network
+    * TensorFlow
 
 #### Computer Vision
 * Image Processing
