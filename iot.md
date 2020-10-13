@@ -7,6 +7,22 @@
 
 ---
 ## Water Heating Automation System for Swimming Pool
+> Caption
+
+<img src="/images/pool1.jpg" alt="HMI Monitoring" width="400">
+<img src="/images/pool2.jpg" alt="HMI Setting" width="400">
+
+This is my first professional project when I was doing an internship. 
+The main goal is to **automate** the water heating system in the swimming pool and integrate **temperature control** into the existing system.
+Temperature input can be done either via **interactive touch screen** (HMI) or **Android application** connected to the **programmable logic controller**.
+This system can also **control and monitor** the state of water pumps and heaters as shown in the HMI display.
+Multiple PLCs and HMIs are connected using **wireless communication**.
+
+<table border="2">
+<tr>
+<td><b>Keywords:</b> automation, PLC, HMI, wireless communication, IoT, mobile application</td>
+</tr>
+</table>
 
 ---
 ## Hexapod Robot with Control over Internet
