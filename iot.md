@@ -40,7 +40,7 @@ so that when the robot is physically deflected it can return to its original dir
 > A prototype of machine that could sort garbage by its material type.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aobZc5qVGxE" target="_blank">
-<img src="http://img.youtube.com/vi/aobZc5qVGxE/default.jpg" alt="Garbage Classification" width="400">
+<img src="http://img.youtube.com/vi/aobZc5qVGxE/maxresdefault.jpg" alt="Garbage Classification" width="600">
 </a>
 
 ---
