@@ -114,6 +114,18 @@
 ---
 ## Navigation Aid Device for the Visually Impaired
 
+#### Objective
+
+> Make a wearable device for people with visually impairment to navigate through unfamilliar places. 
+
+#### Details
+
+* not yet inputed
+
+#### Keywords
+
+*computer vision, assistive technology, embedded system, depth camera*
+
 ---
 ## Line Inspection Robot with Vision
 
