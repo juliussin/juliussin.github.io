@@ -76,7 +76,7 @@ Summary
 #### Embedded System
 * Microcontroller
 * Single Board Computer
-* Sensors & Actuators
+* Sensor & Actuator
 
 #### Internet of Things
 * Smart Device
