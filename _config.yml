@@ -11,16 +11,10 @@ description: >
   &nbsp;&nbsp;<a href="https://www.github.com/juliussin/">GitHub Profile</a> 
   <br><br>
   <h2>Table of Contents</h2>
-  <a href="/">Summary</a>
-  <br>
-  <a href="#skills">Skills</a>
-  <br>
-  <a href="#water-heating-automation-system-for-swimming-pool">Water Heating Automation System for Swimming Pool</a>
-  <br>
-  <a href="#hexapod-robot-with-control-over-internet">Hexapod Robot with Control over Internet</a>
-  <br>
-  <a href="#diy-smart-ir-remote-connected-to-home-automation">DIY Smart IR Remote Connected to Home Automation</a>
-  <br>
+  <a href="/">Welcome</a>
+  <br><br>
+  <a href="/portfolio">My Portfolio</a>
+  <br><br>
   
 
 markdown: kramdown
