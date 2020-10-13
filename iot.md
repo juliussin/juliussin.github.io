@@ -24,7 +24,7 @@ so that when the robot is physically deflected it can return to its original dir
 
 <table border="3">
 <tr>
-<th>Keywords: IoT, mobile application, robot, microcontroller, sensor & actuator</th>
+<td><b>Keywords:</b> IoT, mobile application, robot, microcontroller, sensor & actuator</td>
 </tr>
 </table>
 
