@@ -2,7 +2,9 @@
 
 ---
 ## Contents
-{:toc}
+   * [Water Heating Automation System for Swimming Pool](#water-heating-sutomation-system-for-swimming-pool)
+   * [Hexapod Robot with Control over Internet](#hexapod-robot-with-control-over-internet)
+   * [DIY Smart IR Remote Connected to Home Automation](#diy-smart-ir-remote-connected-to-home-automation)
 
 ---
 ## Water Heating Automation System for Swimming Pool
