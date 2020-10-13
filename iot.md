@@ -1,9 +1,8 @@
 # Internet of Things Projects
 
 ---
-
 ## Contents
-
+{:toc}
 
 ---
 ## Water Heating Automation System for Swimming Pool

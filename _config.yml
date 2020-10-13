@@ -16,4 +16,5 @@ description: >
   <a href="/iot">Internet of Things</a>
   <br>
 
+markdown: kramdown
 theme: jekyll-theme-minimal
