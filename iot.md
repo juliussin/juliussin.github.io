@@ -10,6 +10,7 @@
 
 ## Hexapod Robot with Control over Internet
 <img src="/images/hexapod.jpg" alt="Hexapod Robot" width="200"/>
+![Hexapod](/images/hexapod.jpg)
 
 > Hexapod is a 6 legged robot that could walk with a combination of its leg movements.
 > Utilizing *ESP8266* to control numerous servos, this project is an example of *Internet of Things*.
