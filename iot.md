@@ -21,6 +21,7 @@ so that when the robot is physically deflected it can return to its original dir
 
 :::info
 ***Keywords:*** `IoT`  `mobile application`  `robot`  `microcontroller`  `sensor & actuator`
+:::
 
 ## DIY Smart IR Remote Connected to Home Automation
 
