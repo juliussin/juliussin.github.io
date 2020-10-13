@@ -35,9 +35,7 @@ so that when the robot is physically deflected it can return to its original dir
 
 > A prototype of machine that could sort garbage by its material type.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=aobZc5qVGxE&ab
-" target="_blank"><img src="http://img.youtube.com/vi/aobZc5qVGxE&ab/0.jpg" 
-alt="Garbage Classification - Prototype Demo" width="400"></a>
+[![Garbage Classification](/images/garbage_classification_thumbnail.jpg)](https://www.youtube.com/watch?v=aobZc5qVGxE)
 
 ## Navigation Aid Device for the Visually Impaired
 
