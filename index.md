@@ -1,7 +1,10 @@
 # Welcome
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Greetings! I'm Julius Sintara, an electronic engineer with experience in embedded systems, image processing, internet of things, and machine learning.
+In the last 2 years, I've worked on many projects related to electronics as well as machine learning, image processing, and IoT.
+Many are not documented, but for the next time I'll try to document all the projects I work on.
+Please feel free to reach out if you have any question!
 
 ---
 ## Skills:
