@@ -11,6 +11,7 @@
    * [Line Inspection Robot with Vision](#line-inspection-robot-with-vision)
    * [Multi-Sensors Node Connected to MQTT](#multi-sensors-node-connected-to-mqtt)
    * [Mini Projects](#mini-projects)
+   * [Sculpture - Art - Electronics](#sculpture---art---electronics)
 
 ---
 ## Water Heating Automation System for Swimming Pool
