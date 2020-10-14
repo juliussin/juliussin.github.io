@@ -147,3 +147,18 @@
 
 ---
 ## Mini Projects
+
+---
+## Sculpture - Art - Electronics
+
+### LED Flower
+
+<img src="/images/led_flower.png" alt="LED Flower">
+
+### LED Bracelet
+
+<img src="/images/led_bracelet.png" alt="LED Bracelet">
+
+### Transparent PCB
+
+<img src="/images/transparent_pcb.png" alt="Transparent PCB">
