@@ -4,6 +4,7 @@
 Greetings! I'm Julius Sintara, an electronic engineer with experience in embedded systems, image processing, internet of things, and machine learning.
 In the last 2 years, I've worked on many projects related to electronics as well as machine learning, image processing, and IoT.
 Many are not documented, but for the next time I'll try to document all the projects I work on.
+For now, I will further improve and build up my knowledge in various areas of IT field.
 Please feel free to reach out if you have any question!
 
 ---
