@@ -82,8 +82,12 @@
 
 #### Details
 
+* Photo of ID Card is sent from either Mobile Application or Web
+* Image processing such as Perspective Transformation
+* Text Detection and Optical Character Recognition (OCR) using OpenCV and Tesseract
 * Create REST API using Flask
 * Deploy on AWS Cloud Service
+* Save the sorted data to the database
 
 #### Keywords
 
@@ -102,11 +106,15 @@
 
 #### Details
 
-* Convolutional Neural Network (CNN), Classification, TensorFlow
+* Dataset from Kaggle (Public Dataset) with 6 categories of waste
+* Deep Learning platform using TensorFlow
+* Comparing 2 Machine Learning models: CNN and Transfer Learning
+* Deployment on a single board computer NVIDIA Jetson Nano with a webcam
+* The machine manage to distinguish types of waste with almost 90% accuracy
 
 #### Keywords
 
-*embedded system, machine learning, CNN, classification, TensorFlow*
+*embedded system, machine learning, CNN, classification, TensorFlow, single board computer*
 
 ---
 ## Navigation Aid Device for the Visually Impaired
@@ -119,7 +127,7 @@
 
 #### Details
 
-* not yet inputed
+* cannot be explained yet because it is in the process of submitting to an international journal
 
 #### Keywords
 
@@ -136,7 +144,11 @@
 
 #### Details
 
-* not yet inputed
+* Vision based line detection with a webcam
+* Basic image processing for line detection
+* Implementation on a single board computer Raspberry Pi
+* Movement of the robot using 2 wheel, each of which controlled by a motor driver
+* The robot is able to move, turn, and rotate in order to follow the targeted line
 
 #### Keywords
 
