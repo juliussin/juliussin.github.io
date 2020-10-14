@@ -40,11 +40,11 @@ Please feel free to reach out if you have any question!
 ---
 ## Certifications:
 
-** TensorFlow Developer Certificate **
-TensorFlow Certificate Program
-July 2020 - July 2023
-[See the credential] (https://www.credential.net/90bfe520-bc47-4621-87ea-273a7f62e380)
-[See me on the TensorFlow Certificate Network](https://developers.google.com/certification/directory/tensorflow)
+**TensorFlow Developer Certificate**  
+TensorFlow Certificate Program  
+July 2020 - July 2023  
+[See the credential] (https://www.credential.net/90bfe520-bc47-4621-87ea-273a7f62e380)  
+[See me on the TensorFlow Certificate Network](https://developers.google.com/certification/directory/tensorflow)  
 
 
 ---
