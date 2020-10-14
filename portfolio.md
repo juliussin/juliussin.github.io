@@ -165,7 +165,7 @@
 
 ### LED Flower
 
-<img src="/images/led_flower.png" alt="LED Flower">
+<img src="/images/led_flower.png" alt="LED Flower" width="400">
 
 ### LED Bracelet
 
