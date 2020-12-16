@@ -18,7 +18,8 @@
 
 ## Traffic Counter with Imaginary Line Crossing Detection
 
-<img src="/images/traffic.jpg" alt="Traffic Counter">
+<img src="/images/traffic1.jpg" alt="Traffic Counter">
+<img src="/images/traffic2.jpg" alt="Traffic Counter">
 
 #### Objective
 
