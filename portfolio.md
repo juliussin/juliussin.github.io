@@ -2,6 +2,7 @@
 
 ---
 ## Contents
+   * [Traffic Counter with Imaginary Line Crossing Detection](traffic-counter-with-imaginary-line-crossing-detection)
    * [Water Heating Automation System for Swimming Pool](#water-heating-automation-system-for-swimming-pool)
    * [Hexapod Robot with Control over Internet](#hexapod-robot-with-control-over-internet)
    * [DIY Smart IR Remote Connected to Home Automation](#diy-smart-ir-remote-connected-to-home-automation)
@@ -14,6 +15,26 @@
    * [Sculpture - Art - Electronics](#sculpture---art---electronics)
 
 ---
+
+## Traffic Counter with Imaginary Line Crossing Detection
+
+<img src="/images/traffic.jpg" alt="Traffic Counter">
+
+#### Objective
+
+> Counts the number of vehicles and pedestrians via CCTV when the object crosses the defined imaginary line.
+
+#### Deteils
+
+* Utilizing object detection: YOLOv5 by ultralytics for vehicle detection and localization.
+* Utilizing object tracking: Deep Sort with PyTorch, PyTorch implementation from original Deep SORT. 
+* Detection of vehicles crossing the imaginary line using matrix calculation. 
+* All events will be stored to the database in realtime using API.
+
+#### Keywords
+
+*object detection, object tracking, computer vision, machine learning*
+
 ## Water Heating Automation System for Swimming Pool
 
 <img src="/images/pool.jpg" alt="HMI">
@@ -29,7 +50,7 @@
 * Connect multiple PLCs and HMIs using Wireless Communication
 * Program PLC with Ladder Diagram and also HMI
 
-### Keywords
+#### Keywords
 
 *industrial automation, PLC, HMI, wireless communication, IoT, mobile application*
 
